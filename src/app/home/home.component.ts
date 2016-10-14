@@ -19,7 +19,7 @@ import { XLarge } from './x-large';
   templateUrl: './home.component.html'
 })
 export class Home {
-  // Set our default values
+  // Set our default values  asdasdasd 
   localState = { value: '' };
   // TypeScript public modifiers
   constructor(public appState: AppState, public title: Title) {
